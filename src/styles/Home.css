@@ -1,0 +1,47 @@
+
+.home {
+    /* height: 100vh; */
+    /* width: 100vw; */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  /* background-color: #efddef; */
+  /* justify-content: center; */
+    padding: 30px;
+    background: #f5f7fa;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ ;
+}
+
+.home h1 {
+  text-align: center;
+  color: black;
+}
+.student-link {
+width: fit-content;
+  text-decoration: none;
+  color: rgb(222, 215, 215);
+}
+
+.student-card {
+  border: 1px solid rgb(32, 31, 31);
+  padding: 15px;
+   margin: 50px auto;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  /* max-width: 200px;   */
+}
+
+.student-card:hover {
+  background-color: rgb(111, 104, 104);
+}
+
+.student-card h2 {
+  margin: 0;
+  /* margin-left: 200px;
+  margin-right: 200px;
+} */}
